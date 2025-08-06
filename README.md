@@ -36,6 +36,7 @@ Skill includes in Network Design & Troubleshooting, Systems & Infrastructure, Cl
 -	Design a durable LAN/WAN architecture that links main and branch office over IPsec to protect data transfer. In addition, added a WAF in front of the branch webserver to protect exploits.
 -	Deployed dual HUAWEI NGFW in HRP hot-standby mode to offer 99% uptime and seamless failover, besides plus URL, email, antivirus, and APT filtering to reduce malicious traffic by 80% in testing.
 -	Set Finance, Management, Tech, other office, and Guest users into sperate VLANs with ACLs that make isolation while allowing policy-based access. Centralized DHCP/DNS, Active Directory, File, Web services to address management and identity control. Besides, staff can use SSL VPN to access internal sources.
+
 **Home Lab Networking Setup | personal Project | Ongoing**
 -	Build enterprise-grade home lab with Huawei equipment and physical server.
 -	Setup personal web in the server and store files like photo, video, phone’s backup.
